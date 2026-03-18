@@ -50,7 +50,7 @@
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contacts
 
 <div align="center">
-  <a href="https://instagram.com/alex_lbnt" target="_blank">
+  <a href="https://www.instagram.com/baruullo_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="mailto:alexneto510@gmail.com">
