@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=cubanastrike&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb,58a6ff&height=200&section=header&text=cubanastrike&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=developer%20·%20builder%20·%20problem%20solver&descAlignY=60&descAlign=50)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Code.+Break.+Fix.+Repeat.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I+am+barullo;Code.+Break.+Fix.+Repeat.)
 ## Aprendiendo a programar... █████████░ 99% — ERROR: ⛔nunca aprendia
