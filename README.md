@@ -27,15 +27,7 @@ En proceso de convertirme en desarrollador — escribiendo código, rompiendo co
 </p>
 
 ![](https://geps.dev/progress/25)  <div align="center">
-  <a href="https://instagram.com/alex_lbnt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-  <a href="mailto:alexneto510@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-<a href="https://discord.com/users/TU_ID_DE_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</a>
+  
 </div>
 
 ---
@@ -56,10 +48,25 @@ En proceso de convertirme en desarrollador — escribiendo código, rompiendo co
 ### ◈Base de datos
 
 <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</div>
+
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contacts
+
+<div align="center">
+  <a href="https://instagram.com/alex_lbnt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="mailto:alexneto510@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://discord.com/users/TU_ID_DE_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
+</a>
 
 </div>
 
 #
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cubanastrike/cubanastrike/output/pacman-contribution-graph-dark.svg">
