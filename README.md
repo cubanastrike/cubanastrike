@@ -1,20 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb,58a6ff&height=200&section=header&text=cubanastrike&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=developer%20·%20builder%20·%20problem%20solver&descAlignY=60&descAlign=50)
+<div align="center">
+  <h1>Hello, I’m Alexandre 👋</h1>
+  <p>
+    <strong>Programming Student</strong><br/>
+    Student → Developer • Web • SQL • C# • Loading...
+  </p>
 
+</div>
+
+> `while (alive) { eat(); sleep(); code(); }`
+---
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Matias+Bar%C3%BA+%F0%9F%91%8B;Code.+Break.+Fix.+Repeat.;Always+learning+something+new...)](https://git.io/typing-svg)
 
 </div>
-
----
-
-### Hey, [I'm Matias Barú](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-Hola, soy Barullo. Programador en construcción, experto en Stack Overflow y maestro del Ctrl+Z.
-
-Hablo SQL cuando quiero sentirme inteligente.
-
-> `while (alive) { eat(); sleep(); code(); }`
 
 ---
 
