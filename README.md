@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtkejJmeGdwcHV5YWd6anB2OGJpY3Nxc2hyMjVoeWh4MW1pcWQ5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ov9jCEFMBtCy54q6Q/giphy.gif" width="80px">
+
 
 # Hello, I'm Matias 👋
 
@@ -20,8 +20,7 @@
 
 
 ---
-
-<<div align="center">
+<div align="center">
 
 ### ◆ Front-end
 
