@@ -1,4 +1,7 @@
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXFzZ2U3aTNrbWNqZmxndGp0cjJtNjcxYjE4OTQzbjU3eDA1NXRlMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hwGqvNas9DT74SYrbb/giphy.gif" width="40"/>Aprendiendo a programar... █████████░ 99% — ERROR: ⛔nunca aprendia
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=cubanastrike&fontSize=60&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I+am+barullo;Code.+Break.+Fix.+Repeat.)
+## Aprendiendo a programar... █████████░ 99% — ERROR: ⛔nunca aprendia
 ![baner de barullo](banee.png)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/baruullo_/)
