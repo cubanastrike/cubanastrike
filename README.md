@@ -21,9 +21,7 @@
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About me
 
 <p>
-Estudiante de programación apasionado por aprender y construir cosas desde cero. <br>
-Actualmente enfocado en desarrollo frontend y bases de datos, avanzando un proyecto a la vez. <br>
-En proceso de convertirme en desarrollador — escribiendo código, rompiendo cosas y entendiendo cómo funciona todo.
+"Passionate programming student who loves learning and building things from scratch. Currently focused on frontend development and databases, advancing one project at a time. In the process of becoming a developer — writing code, breaking things, and understanding how everything works."
 </p>
 
   
