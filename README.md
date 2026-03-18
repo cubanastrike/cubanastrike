@@ -1,9 +1,13 @@
 
 <div align="center">
 
-### Hey, [I'm Matias Barú](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ #  Hello, [I'm Matias Barú](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-</div>
+</div> 
+ <div align="center"<p>
+    <strong>Computer Science Student</strong><br/>
+               Fullstack Developer
+  </p>
 <br clear="both">
 
 
