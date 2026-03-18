@@ -21,28 +21,17 @@
 
 ---
 
-<div align="center">
+<<div align="center">
 
 ### ◆ Front-end
 
-<table border="0">
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/><br/><sub style="font-family:monospace;letter-spacing:2px"><b>HTML</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/><br/><sub style="font-family:monospace;letter-spacing:2px"><b>CSS</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/><br/><sub style="font-family:monospace;letter-spacing:2px"><b>JAVASCRIPT</b></sub></td>
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> &nbsp;**HTML**&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> &nbsp;**CSS**&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> &nbsp;**JAVASCRIPT**
 
 ### ◆ Base de datos
 
-<table border="0">
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/><br/><sub style="font-family:monospace;letter-spacing:2px"><b>MYSQL</b></sub></td>
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> &nbsp;**MYSQL**
 
 </div>
----
 
 ### 📊 Estadísticas de GitHub
 
