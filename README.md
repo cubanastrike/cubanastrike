@@ -5,7 +5,7 @@
 
 </div> 
  <div align="center"<p>
-    <strong>Computer Science Student</strong><br/>
+    <strong>Programming Student</strong><br/>
                Fullstack Developer
   </p>
 <br clear="both">
