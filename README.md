@@ -26,7 +26,6 @@ Actualmente enfocado en desarrollo frontend y bases de datos, avanzando un proye
 En proceso de convertirme en desarrollador — escribiendo código, rompiendo cosas y entendiendo cómo funciona todo.
 </p>
 
-![](https://geps.dev/progress/25)  <div align="center">
   
 </div>
 
