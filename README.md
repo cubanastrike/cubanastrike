@@ -18,6 +18,25 @@
 
 </div>
 
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About me
+
+<p>
+Estudiante de programación apasionado por aprender y construir cosas desde cero. <br>
+Actualmente enfocado en desarrollo frontend y bases de datos, avanzando un proyecto a la vez. <br>
+En proceso de convertirme en desarrollador — escribiendo código, rompiendo cosas y entendiendo cómo funciona todo.
+</p>
+
+![](https://geps.dev/progress/25)  <div align="center">
+  <a href="https://instagram.com/alex_lbnt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="mailto:alexneto510@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+<a href="https://discord.com/users/TU_ID_DE_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
+</a>
+</div>
 
 ---
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
