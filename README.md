@@ -1,87 +1,58 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb,58a6ff&height=200&section=header&text=cubanastrike&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=developer%20·%20builder%20·%20problem%20solver&descAlignY=60&descAlign=50)
 
 <div align="center">
 
- #  Hello, [I'm Matias Barú](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-</div> 
- <div align="center"<p>
-    <strong>Programming Student</strong><br/>
-               Fullstack Developer
-  </p>
-  <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+ideas;Smooth+mobile+%7C+Robust+backend;Clean+and+scalable+architecture;UX-focused+interfaces" 
-/>
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About me
-
-I am a **Computer Science student** passionate about turning ideas into **solid, scalable, and well-designed digital products**.
-
-I work from **back-end to interface**, always prioritizing **clean architecture**, **code organization**, and **user experience**.
-
-I am currently developing **Upon**, a complete project that combines a **robust backend**, **mobile application**, and **well-defined UX**, designed as a real-world market product.
-
-- ▸ **Main project:** **Upon** monorepo (NestJS + React Native)
-- ▸ **Technical interests:** System architecture, well-designed APIs, and mobile applications
-- ▸ **UI/UX:** Prototyping and modern interface design with Figma
-- ▸ **Beyond code:** I work with high-complexity systems for Public Administration and write stories in my spare time
-
----
-
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
-
-<div align="center">
-
-### ◈ Front-end & Mobile
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=7DCFFF" />
-
-### ◈ Back-end
-<img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" />
-<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=7A7AFF" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
-
-### ◈ Infra & Design
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4A90E2" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Matias+Bar%C3%BA+%F0%9F%91%8B;Code.+Break.+Fix.+Repeat.;Always+learning+something+new...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contacts
+### Hey, [I'm Matias Barú](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+Hola, soy Barullo. Programador en construcción, experto en Stack Overflow y maestro del Ctrl+Z.
+
+Hablo SQL cuando quiero sentirme inteligente.
+
+> `while (alive) { eat(); sleep(); code(); }`
+
+---
+
+### 🌐 Encontrame en
 
 <div align="center">
-  <a href="https://instagram.com/alex_lbnt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-  <a href="mailto:alexneto510@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexandre-lopes-97352b287" target="_blank">
-    <img src="https://img.shields.io/
 
-<br clear="both">
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](TU_LINK_YOUTUBE)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](TU_LINK_DISCORD)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](TU_LINK_INSTAGRAM)
 
-
-
-
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
 </div>
 
-###
-<br clear="both">
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cubanastrike/cubanastrike/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cubanastrike/cubanastrike/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cubanastrike/cubanastrike/output/pacman-contribution-graph.svg">
-</picture>
+### 🛠️ Tecnologías
 
-###
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![cubanastrike's GitHub stats](https://github-readme-stats.vercel.app/api?username=cubanastrike&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubanastrike&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb,58a6ff&height=100&section=footer)
