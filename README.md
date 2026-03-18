@@ -1,5 +1,12 @@
 <div align="center">
-<h1>Hello, I'm Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtkejJmeGdwcHV5YWd6anB2OGJpY3Nxc2hyMjVoeWh4MW1pcWQ5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ov9jCEFMBtCy54q6Q/giphy.gif" width="50px">
+
+# Hello, I'm Matias 👋
+
+</div>
+<div align="center">
+
   <p>
     <strong>Programming Student</strong><br/>
     Student → Developer • Web • SQL • C# • Loading...
