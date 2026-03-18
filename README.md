@@ -1,4 +1,4 @@
-<img src="descarga (1)" width="100%" />
+<img src="descarga (1).jpg" width="100%" />
 
 <div align="center">
 
