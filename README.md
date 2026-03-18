@@ -8,6 +8,10 @@
     <strong>Programming Student</strong><br/>
                Fullstack Developer
   </p>
+  <img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+ideas;Smooth+mobile+%7C+Robust+backend;Clean+and+scalable+architecture;UX-focused+interfaces" 
+/>
+
 <br clear="both">
 
 
