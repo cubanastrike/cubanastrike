@@ -36,7 +36,7 @@
 
 ### ◈Base de datos
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="10"/> &nbsp;<sub>**MYSQL**</sub>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 
 </div>
 
