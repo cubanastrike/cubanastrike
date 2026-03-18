@@ -20,13 +20,14 @@
 
 
 ---
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
 <div align="center">
 
-### ◆ Front-end
+### ◈ Front-end
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> &nbsp;**HTML**&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> &nbsp;**CSS**&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> &nbsp;**JAVASCRIPT**
 
-### ◆ Base de datos
+### ◈Base de datos
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> &nbsp;**MYSQL**
 
