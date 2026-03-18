@@ -25,7 +25,7 @@
 
 ### ◈ Front-end
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="10"/> &nbsp;<sub>**HTML**</sub>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="10"/> &nbsp;<sub>**CSS**</sub>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10"/> &nbsp;<sub>**JAVASCRIPT**</sub>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34C26" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="10"/> &nbsp;<sub>**CSS**</sub>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10"/> &nbsp;<sub>**JAVASCRIPT**</sub>
 
 ### ◆ Back-end & Sistemas
 
