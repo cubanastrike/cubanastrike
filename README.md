@@ -53,7 +53,7 @@
   <a href="https://www.instagram.com/baruullo_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
-  <a href="mailto:alexneto510@gmail.com">
+  <a href="mailto:matiasbaru30gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://discord.com/users/TU_ID_DE_DISCORD" target="_blank">
