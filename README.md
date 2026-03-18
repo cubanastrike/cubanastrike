@@ -5,9 +5,9 @@
     Student → Developer • Web • SQL • C# • Loading...
   </p>
 
-</div>
 
-> `while (alive) { eat(); sleep(); code(); }`
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Initializing+human...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+99%25;ERROR%3A+cafe.exe+not+found.+Aborting+work...;Retrying+with+Stack+Overflow...+%E2%9C%94%EF%B8%8F;Code+works.+No+idea+why.+Deploying+anyway.;git+commit+-m+%22fix%22+%23+7th+time+today;SELECT+*+FROM+motivation+WHERE+ganas+%3E+0;Empty+set+%280+rows%29;Googling+%27how+to+quit+vim%27...;Still+googling...;It+works+on+my+machine+%F0%9F%A4%B7;Turning+it+off+and+on+again...;Blame+the+intern.+%28I+am+the+intern%29;console.log%28%27why+are+you+like+this%27%29%3B;404%3A+Sleep+not+found;sudo+make+me+a+sandwich;Done.+...+wait%2C+what+did+I+break%3F)](https://git.io/typing-svg)</div>
 ---
 <div align="center">
 
