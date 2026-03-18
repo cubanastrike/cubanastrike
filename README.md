@@ -1,10 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb,58a6ff&height=200§ion=header&text=barullo&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=developer%20·%20builder%20·%20problem%20solver&descAlignY=60&descAlign=50)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I+am+barullo;Code.+Break.+Fix.+Repeat.)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I+am+barullo;Code.+Break.+Fix.+Repeat.)
 ## Aprendiendo a programar... █████████░ 99% — ERROR: ⛔nunca aprendia
-![baner de barullo](banee.png)
+![baner de barullo](bar.png)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/baruullo_/)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
