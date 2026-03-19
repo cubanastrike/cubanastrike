@@ -3,8 +3,9 @@
 <div align="center">
 <img src="descarga (1).jpg" width="50%" />
 
-
-# Hello, I'm Matias 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello!+👋+My+name+is+Matias" alt="Typing SVG" />
+</div>
 
 </div>
 <div align="center">
