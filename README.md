@@ -51,7 +51,7 @@
   <a href="mailto:matiasbaru30@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://discord.com/users/TU_ID_DE_DISCORD" target="_blank">
+  <a href="https://discord.gg/tCYTp6qr" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
 </div>
