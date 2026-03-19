@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="Welcome to my.gif" width="100" />
+<img src="Welcome to my.gif" width="10" />
 
 
 # Hello, I'm Matias 👋
