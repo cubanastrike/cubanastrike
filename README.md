@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Welcome to my.gif" width="700" alt="Welcome animation" />
+<img src="Welcome to my (1).gif" width="700" alt="Welcome animation" />
 
 ---
 
