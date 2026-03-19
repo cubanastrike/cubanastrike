@@ -4,8 +4,7 @@
 <img src="descarga (1).jpg" width="50%" />
 
 
-# Hello, I'm Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-
+<h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> My name is Matias</h1>
 </div>
 <div align="center">
 
