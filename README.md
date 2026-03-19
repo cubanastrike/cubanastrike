@@ -4,7 +4,6 @@
 <img src="Welcome to my.gif" width="650" />
 
 
-# Hello, I'm Matias 👋
 
 </div>
 <div align="center">
