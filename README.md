@@ -86,18 +86,8 @@
 </tr>
 </table>
 
-<h3>Contribution Streak</h3>
-<img 
-  src="https://streak-stats.demolab.com?user=cubanastrike&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
-  alt="GitHub Streak"
-/>
 
-<h3>Contribution Graph</h3>
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=cubanastrike&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=cubanastrike's%20Contribution%20Graph"
-  alt="Activity Graph"
-  width="100%"
-/>
+
 
 ---
 
